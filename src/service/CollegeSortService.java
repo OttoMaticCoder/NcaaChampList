@@ -2,10 +2,10 @@ package service;
 
 import wrestler.Wrestler;
 
-public class SortService {
+public class CollegeSortService {
     private Wrestler[] wrestlers;
 
-public SortService(FileService fileService) {
+public CollegeSortService(FileService fileService) {
     wrestlers = fileService.readWrestlerList();
 }
 
@@ -21,6 +21,8 @@ public Wrestler[] sortBySchool(String college) {
     return collegeWrestler;
 }
 
+
+
 private int countChampsInList(String college) {
     int count = 0;
     for (Wrestler wrestler : wrestlers) {
@@ -30,5 +32,7 @@ private int countChampsInList(String college) {
     }
     return count;
 }
+
+
 
 }
