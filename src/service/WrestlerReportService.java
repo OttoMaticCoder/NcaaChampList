@@ -4,17 +4,12 @@ import wrestler.Wrestler;
 
 public class WrestlerReportService {
     private FileService fileService;
-    private CollegeSortService sortService;
-    private WeightSortService weightSortService;
+    private SortingService sortService;
 
-    public WrestlerReportService(FileService fileService, CollegeSortService sortService) {
+
+    public WrestlerReportService(FileService fileService, SortingService sortService) {
         this.fileService = fileService;
         this.sortService = sortService;
-    }
-
-    public WrestlerReportService(FileService fileService, WeightSortService weightSortService) {
-        this.fileService = fileService;
-        this.weightSortService = weightSortService;
     }
 
     public void generateWrestlerSchoolList(String college, String fileName) {
@@ -25,8 +20,8 @@ public class WrestlerReportService {
     }
 
     public void generateWrestlerWeightList(String weight, String fileName) {
-        Wrestler[] collegeWrestler = weightSortService.sortByWeight(weight);
-        weightSortService.sortByWeight(weight);
+        Wrestler[] collegeWrestler = sortService.sortByWeight(weight);
+        sortService.sortByWeight(weight);
         fileService.writeToFile(collegeWrestler, fileName);
 
     }

@@ -21,13 +21,14 @@ public class FileService {
 
                 String name = wrestleData[0];
                 String college = wrestleData[1];
-                Integer nattys = Integer.parseInt(wrestleData[2]);
+                String nattys = wrestleData[2];
                 String weight = wrestleData[3];
 
                 Wrestler wrestler = new Wrestler(name, college, nattys, weight);
                 wrestleList[count] = wrestler;
                 count++;
             }
+            System.out.println(Arrays.toString(wrestleList));
             return wrestleList;
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);

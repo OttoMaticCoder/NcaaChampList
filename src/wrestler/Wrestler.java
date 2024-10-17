@@ -3,10 +3,10 @@ package wrestler;
 public class Wrestler {
     private String name;
     private String school;
-    private Integer nattys;
+    private String nattys;
     private String weight;
 
-    public Wrestler(String name, String school, Integer nattys, String weight) {
+    public Wrestler(String name, String school, String nattys, String weight) {
       this.name = name;
       this.school = school;
       this.nattys = nattys;
@@ -29,11 +29,11 @@ public class Wrestler {
         this.school = school;
     }
 
-    public Integer getNattys() {
+    public String getNattys() {
         return nattys;
     }
 
-    public void setNattys(Integer nattys) {
+    public void setNattys(String nattys) {
         this.nattys = nattys;
     }
 

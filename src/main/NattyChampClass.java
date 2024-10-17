@@ -1,19 +1,20 @@
 package main;
 
 import service.FileService;
-import service.CollegeSortService;
-import service.WeightSortService;
+import service.SortingService;
 import service.WrestlerReportService;
 
 public class NattyChampClass {
     public static void main(String[] args) {
         FileService fileService = new FileService();
-        CollegeSortService sortService = new CollegeSortService(fileService);
-        WeightSortService weightSortService = new WeightSortService(fileService);
-        WrestlerReportService reportService = new WrestlerReportService(fileService, sortService);
-        WrestlerReportService weightReportService = new WrestlerReportService(fileService, weightSortService);
+        SortingService sortService = new SortingService(fileService);
 
-        weightReportService.generateWrestlerWeightList("157", "157-Champs");
+        WrestlerReportService schoolReportService = new WrestlerReportService(fileService, sortService);
+        WrestlerReportService weightReportService = new WrestlerReportService(fileService, sortService);
+
+//        weightReportService.generateWrestlerWeightList("157", "157-Champs");
+        schoolReportService.generateWrestlerSchoolList(" Iowa", "IowaChamps");
+
 
 //        reportService.generateWrestlerList("Penn St.", "Penn-St-Wrestlers-csv");
 //        reportService.generateWrestlerList("Cornell", "Cornell-Wrestlers-csv");
