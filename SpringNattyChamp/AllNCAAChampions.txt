@@ -1,0 +1,885 @@
+1948,Arnold Plaza,Purdue,114
+1928,Harold DeMarsh,Oklahoma St.,115
+1929,Joe Sapora,Illinois,115
+1930,Joe Sapora,Illinois,115
+1952,Hugh Peery,Pittsburgh,115
+1953,Hugh Peery,Pittsburgh,115
+1954,Hugh Peery,Pittsburgh,115
+1955,Terrence McCann,Iowa,115
+1956,Terrence McCann,Iowa,115
+1957,Dick Delgado,Oklahoma,115
+1958,Dick Delgado,Oklahoma,115
+1959,Andy Fitch,Yale,115
+1960,E. Gray Simons,Lock Haven,115
+1961,E. Gray Simons,Lock Haven,115
+1962,E. Gray Simons,Lock Haven,115
+1963,Arthur Maughan,Concordia-M’head,115
+1964,Terry Finn,Southern Ill.,115
+1965,Tadaaki Hatta,Oklahoma St.,115
+1966,Rich Sanders,Portland St.,115
+1967,Rich Sanders,Portland St.,115
+1968,Ken Melchior,Lock Haven,115
+1969,John Miller,Oregon,115
+1931,John Engel,Lehigh,118
+1933,Rex Peery,Oklahoma St.,118
+1934,Rex Peery,Oklahoma St.,118
+1935,Rex Peery,Oklahoma St.,118
+1937,Joe McDaniels,Oklahoma St.,118
+1938,Joe McDaniels,Oklahoma St.,118
+1970,Greg Johnson,Michigan St.,118
+1971,Greg Johnson,Michigan St.,118
+1972,Greg Johnson,Michigan St.,118
+1973,Dan Sherman,Iowa,118
+1974,Gary Breece,Oklahoma,118
+1975,Shawn Garel,Oklahoma,118
+1976,Mark DiGirolamo,Cal Poly,118
+1977,Jim Haines,Wisconsin,118
+1978,Andy Daniels,Ohio,118
+1979,Gene Mills,Syracuse,118
+1980,Joe Gonzales,CSU Bakersfield,118
+1981,Gene Mills,Syracuse,118
+1982,Barry Davis,Iowa,118
+1983,Adam Cuestas,CSU Bakersfield,118
+1984,Carl DeStefanis,Penn St.,118
+1985,Rick Bonomo,Bloomsburg,118
+1986,Rick Bonomo,Bloomsburg,118
+1987,Rick Bonomo,Bloomsburg,118
+1988,Jack Cuvo,East Stroudsburg,118
+1989,Jack Cuvo,East Stroudsburg,118
+1990,Jack Griffin,Northwestern,118
+1991,Jeff Prescott,Penn St.,118
+1992,Jeff Prescott,Penn St.,118
+1993,Sam Henson,Clemson,118
+1994,Sam Henson,Clemson,118
+1995,Kelvin Jackson,Michigan St.,118
+1996,Sheldon Thomas,Clarion,118
+1997,Jessie Whitmer,Iowa,118
+1998,Teague Moore,Oklahoma St.,118
+1939,Joe McDaniels,Oklahoma St.,121
+1940,Robert Antonacci,Indiana,121
+1941,Merle Jennings,Michigan St.,121
+1942,Merle Jennings,Michigan St.,121
+1946,Cecil Mott,UNI,121
+1947,Richard Hauser,Cornell College,121
+1949,Arnold Plaza,Purdue,121
+1950,Anthony Gizoni,Waynesburg,121
+1932,Joseph Puerta,Illinois,123
+1936,Ted Anderson,Central Okla.,123
+1951,Anthony Gizoni,Waynesburg,123
+1952,Bill Borders,Oklahoma,123
+1953,Dick Mueller,Minnesota,123
+1954,Richard Govig,Iowa,123
+1955,Ed Peery,Pittsburgh,123
+1956,Ed Peery,Pittsburgh,123
+1957,Ed Peery,Pittsburgh,123
+1958,Paul Powell,Pittsburgh,123
+1959,Dave Auble,Cornell,123
+1960,Dave Auble,Cornell,123
+1961,Duwane Miller,Oklahoma,123
+1962,Masaaki Hatta,Oklahoma St.,123
+1963,Mike Nissen,Nebraska,123
+1964,Fred Powell,Lock Haven,123
+1965,Mike Caruso,Lehigh,123
+1966,Mike Caruso,Lehigh,123
+1967,Mike Caruso,Lehigh,123
+1968,Dwayne Keller,Oklahoma St.,123
+1969,Wayne Boyd,Temple,123
+1948,George Lewis,Waynesburg,125.5
+1931,Robert Pearce,Oklahoma St.,126
+1933,Ross Flood,Oklahoma St.,126
+1934,Ross Flood,Oklahoma St.,126
+1935,Ross Flood,Oklahoma St.,126
+1937,Dale Brand,Cornell College,126
+1938,Allen Sapora,Illinois,126
+1970,Dwayne Keller,Oklahoma St.,126
+1971,Yoshiro Fujita,Oklahoma St.,126
+1972,Pat Milkovich,Michigan St.,126
+1973,Mark Massery,Northwestern,126
+1974,Pat Milkovich,Michigan St.,126
+1975,John Fritz,Penn St.,126
+1976,Jack Reinwand,Wisconsin,126
+1977,Nick Gallo,Hofstra,126
+1978,Mike Land,Iowa St.,126
+1979,Randy Lewis,Iowa,126
+1980,John Azevedo,CSU Bakersfield,126
+1981,Dan Cuestas,CSU Bakersfield,126
+1982,Dan Cuestas,CSU Bakersfield,126
+1983,Barry Davis,Iowa,126
+1984,Kevin Darkus,Iowa St.,126
+1985,Barry Davis,Iowa,126
+1986,Brad Penrith,Iowa,126
+1987,Bill Kelly,Iowa St.,126
+1988,Jim Martin,Penn St.,126
+1989,Kendall Cross,Oklahoma St.,126
+1990,Terry Brands,Iowa,126
+1991,Jason Kelber,Nebraska,126
+1992,Terry Brands,Iowa,126
+1993,Tony Purler,Nebraska,126
+1994,David Hirsch,Cornell,126
+1995,Jeff McGinnis,Iowa,126
+1996,Sanshiro Abe,Penn St.,126
+1997,Eric Guerrero,Oklahoma St.,126
+1998,Eric Guerrero,Oklahoma St.,126
+1939,Dale Hanson,Minnesota,128
+1940,Harold Byrd,Oklahoma,128
+1941,Burl Jennings,Michigan St.,128
+1942,Burl Jennings,Michigan St.,128
+1946,Gerald Leeman,UNI,128
+1947,Russell Bush,UNI,128
+1949,Charles Hetrick,Oklahoma St.,128
+1950,Joe Patacsil,Purdue,128
+1951,Walter Romanowski,Cornell College,130
+1952,Gene Lybbert,UNI,130
+1953,Norvard Nalan,Michigan,130
+1954,Norvard Nalan,Michigan,130
+1955,Myron Roderick,Oklahoma St.,130
+1956,Myron Roderick,Oklahoma St.,130
+1957,John Johnston,Penn St.,130
+1958,Les Anderson,Iowa St.,130
+1959,Stanley Abel,Oklahoma,130
+1960,Stanley Abel,Oklahoma,130
+1961,Larry Lauchle,Pittsburgh,130
+1962,Mickey Martin,Oklahoma,130
+1963,Mickey Martin,Oklahoma,130
+1964,Yojiro Uetake,Oklahoma St.,130
+1965,Yojiro Uetake,Oklahoma St.,130
+1966,Yojiro Uetake,Oklahoma St.,130
+1967,David McGuire,Oklahoma,130
+1968,Dan Gable,Iowa St.,130
+1969,David McGuire,Oklahoma,130
+1932,Edwin Belshaw,Indiana,134
+1936,Wayne Martin,Oklahoma,134
+1970,Darrell Keller,Oklahoma St.,134
+1971,Roger Weigel,Oregon St.,134
+1972,Gary Barton,Clarion,134
+1973,Don Rohn,Clarion,134
+1974,Tom Sculley,Lehigh,134
+1975,Mike Frick,Lehigh,134
+1976,Mike Frick,Lehigh,134
+1977,Pat Neu,Minnesota,134
+1978,Ken Mallory,Montclair St.,134
+1979,Darryl Burley,Lehigh,134
+1980,Randy Lewis,Iowa,134
+1981,Jim Gibbons,Iowa St.,134
+1982,C.D. Mock,North Carolina,134
+1983,Clar Anderson,Oklahoma St.,134
+1984,Scott Lynch,Penn St.,134
+1985,Jim Jordan,Wisconsin,134
+1986,Jim Jordan,Wisconsin,134
+1987,John Smith,Oklahoma St.,134
+1988,John Smith,Oklahoma St.,134
+1989,Sean O’Day,Edinboro,134
+1990,Tom Brands,Iowa,134
+1991,Tom Brands,Iowa,134
+1992,Tom Brands,Iowa,134
+1993,T.J. Jaworsky,North Carolina,134
+1994,T.J. Jaworsky,North Carolina,134
+1995,T.J. Jaworsky,North Carolina,134
+1996,Cary Kolat,Lock Haven,134
+1997,Mark Ironside,Iowa,134
+1998,Mark Ironside,Iowa,134
+1928,Arthur Holding,Iowa St.,135
+1929,George Minot,Illinois,135
+1930,Hugh Linn,Iowa St.,135
+1931,Richard Cole,Iowa St.,135
+1933,Patrick Devine,Indiana,135
+1934,Wayne Martin,Oklahoma,135
+1935,Vernon Sisney,Oklahoma,135
+1937,Ray Cheyney,UNI,135
+1938,David Matthews,Oklahoma,135
+1948,Richard Dickenson,Michigan St.,136.5
+1939,Archie Deutschman,Illinois,136
+1940,Al Whitehurst,Oklahoma St.,136
+1941,Al Whitehurst,Oklahoma St.,136
+1942,William Maxwell,Michigan St.,136
+1946,David Arndt,Oklahoma St.,136
+1947,Lowell Lange,Cornell College,136
+1949,Lowell Lange,Cornell College,136
+1950,Lowell Lange,Cornell College,136
+1951,George Layman,Oklahoma St.,137
+1952,George Layman,Oklahoma St.,137
+1953,Len DeAugustino,Lock Haven,137
+1954,Myron Roderick,Oklahoma St.,137
+1955,Lawrence Fornicola,Penn St.,137
+1956,Jim Sinadinos,Michigan St.,137
+1957,Joe Gratto,Lehigh,137
+1958,Paul Aubrey,Oklahoma,137
+1959,Larry Hayes,Iowa St.,137
+1960,Les Anderson,Iowa St.,137
+1961,Norman Young,Michigan St.,137
+1962,Bill Carter,Oklahoma,137
+1963,William Dotson,UNI,137
+1964,Mike Sager,Oklahoma,137
+1965,Bill Stuart,Lehigh,137
+1966,Gene Davis,Oklahoma St.,137
+1967,Dale Anderson,Michigan St.,137
+1968,Dale Anderson,Michigan St.,137
+1969,Dan Gable,Iowa St.,137
+1970,Larry Owings,Washington,142
+1971,Darrell Keller,Oklahoma St.,142
+1972,Tom Milkovich,Michigan St.,142
+1973,Dan Muthler,Navy,142
+1974,Rick Lawinger,Wisconsin,142
+1975,Jim Bennett,Yale,142
+1976,Brad Smith,Iowa,142
+1977,Steve Barrett,Oklahoma St.,142
+1978,Dan Hicks,Oregon St.,142
+1979,Dan Hicks,Oregon St.,142
+1980,Lee Roy Smith,Oklahoma St.,142
+1981,Andre Metzger,Oklahoma,142
+1982,Andre Metzger,Oklahoma,142
+1983,Darryl Burley,Lehigh,142
+1984,Jessie Reyes,CSU Bakersfield,142
+1985,Joe Gibbons,Iowa St.,142
+1986,Kevin Dresser,Iowa,142
+1987,Pete Yozzo,Lehigh,142
+1988,Pat Santoro,Pittsburgh,142
+1989,Pat Santoro,Pittsburgh,142
+1990,Joe Reynolds,Oklahoma,142
+1991,Scott Collins,West Virginia,142
+1992,Troy Steiner,Iowa,142
+1993,Lincoln McIlravy,Iowa,142
+1994,Alan Fried,Oklahoma St.,142
+1995,John Hughes,Penn St.,142
+1996,Bill Zadick,Iowa,142
+1997,Cary Kolat,Lock Haven,142
+1998,Jeff McGinness,Iowa,142
+1928,Melvin Clodfelter,Oklahoma St.,145
+1929,George Bancroft,Oklahoma St.,145
+1930,Hardie Lewis,Oklahoma,145
+1931,William Doyle,Kansas St.,145
+1932,Hardie Lewis,Oklahoma,145
+1933,Alan Kelley,Oklahoma St.,145
+1934,Alan Kelley,Oklahoma St.,145
+1935,Wayne Martin,Oklahoma,145
+1936,Harley Strong,Oklahoma St.,145
+1937,Stanley Henson,Oklahoma St.,145
+1938,Stanley Henson,Oklahoma St.,145
+1939,Harold Nichols,Michigan,145
+1940,Harold Masem,Lehigh,145
+1941,David Arndt,Oklahoma St.,145
+1942,David Arndt,Oklahoma St.,145
+1946,William Koll,UNI,145
+1947,William Koll,UNI,145
+1949,Keith Young,UNI,145
+1950,Keith Young,UNI,145
+1966,Bill Blacksmith,Lock Haven,145
+1967,Don Henderson,Air Force,145
+1968,Dale Bahr,Iowa St.,145
+1969,Mike Grant,Oklahoma,145
+1948,William Koll,UNI,147.5
+1951,Keith Young,UNI,147
+1952,Tommy Evans,Oklahoma,147
+1953,Frank Bettucci,Cornell,147
+1954,Tommy Evans,Oklahoma,147
+1955,Edward Eichelberger,Lehigh,147
+1956,Edward Eichelberger,Lehigh,147
+1957,Simon Roberts,Iowa,147
+1958,Ron Gray,Iowa St.,147
+1959,Ron Gray,Iowa St.,147
+1960,Larry Hayes,Iowa St.,147
+1961,Larry Hayes,Iowa St.,147
+1962,Mike Natvig,Army West Point,147
+1963,Mike Natvig,Army West Point,147
+1964,Jerry Stanley,Oklahoma,147
+1965,Veryl Long,Iowa St.,147
+1970,Mike Grant,Oklahoma,150
+1971,Stan Dziedzic,Slippery Rock,150
+1972,Wade Schalles,Clarion,150
+1973,Jerrett Hubbard,Michigan,150
+1974,Jerrett Hubbard,Michigan,150
+1975,Chuck Yagla,Iowa,150
+1976,Chuck Yagla,Iowa,150
+1977,Mark Churella,Michigan,150
+1978,Mark Churella,Michigan,150
+1979,Bruce Kinseth,Iowa,150
+1980,Andy Rein,Wisconsin,150
+1981,Nate Carr,Iowa St.,150
+1982,Nate Carr,Iowa St.,150
+1983,Nate Carr,Iowa St.,150
+1984,Kenny Monday,Oklahoma St.,150
+1985,Eddie Urbano,Arizona St.,150
+1986,Jim Heffernan,Iowa,150
+1987,Tim Krieger,Iowa St.,150
+1988,Scott Turner,NC State,150
+1989,Tim Krieger,Iowa St.,150
+1990,Brian Dolph,Indiana,150
+1991,Matt Demaray,Wisconsin,150
+1992,Matt Demaray,Wisconsin,150
+1993,Terry Steiner,Iowa,150
+1994,Lincoln McIlravy,Iowa,150
+1995,Steve Marianetti,Illinois,150
+1996,Chris Bono,Iowa St.,150
+1997,Lincoln McIlravy,Iowa,150
+1998,Eric Siebert,Illinois,150
+1966,Dick Cook,Michigan St.,152
+1967,James Kamman,Michigan,152
+1968,Wayne Wells,Oklahoma,152
+1969,Gobel Kline,Maryland,152
+1929,Jack Van Bebber,Oklahoma St.,155
+1930,Otto Kelley,Michigan,155
+1931,Leroy McGuirk,Oklahoma St.,155
+1933,Merrill Frevert,Iowa St.,155
+1934,Ben Bishop,Lehigh,155
+1935,Frank Lewis,Oklahoma St.,155
+1937,Bill Keas,Oklahoma,155
+1938,Dale Scrivens,Oklahoma St.,155
+1939,Stanley Henson,Oklahoma St.,155
+1940,Vernon Logan,Oklahoma St.,155
+1941,Earl Van Bebber,Oklahoma St.,155
+1942,Vernon Logan,Oklahoma St.,155
+1946,Bill Courtright,Michigan,155
+1947,Gail Mikles,Michigan St.,155
+1949,William Nelson,UNI,155
+1950,William Nelson,UNI,155
+1928,Leslie Beers,Iowa,158
+1932,Carl Dougovito,Michigan,158
+1936,Walter Jacob,Michigan St.,158
+1970,Dave Martin,Iowa St.,158
+1971,Carl Adams,Iowa St.,158
+1972,Carl Adams,Iowa St.,158
+1973,Wade Schalles,Clarion,158
+1974,Rod Kilgore,Oklahoma,158
+1975,Dan Holm,Iowa,158
+1976,Lee Kemp,Wisconsin,158
+1977,Lee Kemp,Wisconsin,158
+1978,Lee Kemp,Wisconsin,158
+1979,Kelly Ward,Iowa St.,158
+1980,Ricky Stewart,Oklahoma St.,158
+1981,Ricky Stewart,Oklahoma St.,158
+1982,Jim Zalesky,Iowa,158
+1983,Jim Zalesky,Iowa,158
+1984,Jim Zalesky,Iowa,158
+1985,Marty Kistler,Iowa,158
+1986,Jude Skove,Ohio St.,158
+1987,Stewart Carter,Iowa St.,158
+1988,Rob Koll,North Carolina,158
+1989,Dan St. John,Arizona St.,158
+1990,Pat Smith,Oklahoma St.,158
+1991,Pat Smith,Oklahoma St.,158
+1992,Pat Smith,Oklahoma St.,158
+1993,Markus Mollica,Arizona St.,158
+1994,Pat Smith,Oklahoma St.,158
+1995,Ernest Benion,Illinois,158
+1996,Joe Williams,Iowa,158
+1997,Joe Williams,Iowa,158
+1998,Dwight Gardner,Ohio,158
+1948,Jack St. Clair,Oklahoma St.,160.5
+1966,Greg Ruth,Oklahoma,160
+1967,Vic Marcucci,Iowa St.,160
+1968,Reg Wicks,Iowa St.,160
+1969,Cleo McGlory,Oklahoma,160
+1951,Gene Gibbons,Michigan St.,167
+1952,Joe Lemyre,Penn St.,167
+1953,Don Dickason,Cornell,167
+1954,Joseph Solomon,Pittsburgh,167
+1955,Fred Davis,Oklahoma St.,167
+1956,Edward DeWitt,Pittsburgh,167
+1957,Tom Alberts,Pittsburgh,167
+1958,Duane Murty,Oklahoma St.,167
+1959,Ed Hamer,Lehigh,167
+1960,Dick Ballinger,Wyoming,167
+1961,Ron Conway,Oregon St.,167
+1962,Ronnie Clinton,Oklahoma St.,167
+1963,James Harrison,Pittsburgh,167
+1964,Donald Millard,Southern Ill.,167
+1965,Greg Ruth,Oklahoma,167
+1966,Dave Reinbolt,Ohio St.,167
+1967,George Radman,Michigan St.,167
+1968,Mike Gallego,Fresno St.,167
+1969,Jason Smith,Iowa St.,167
+1970,Jason Smith,Iowa St.,167
+1971,Andrew Matter,Penn St.,167
+1972,Andrew Matter,Penn St.,167
+1973,Bill Simpson,Clarion,167
+1974,Doug Wyn,Western Mich.,167
+1975,Ron Ray,Oklahoma St.,167
+1976,Pat Christenson,Wisconsin,167
+1977,Rod Kilgore,Oklahoma,167
+1978,Keith Stearns,Oklahoma,167
+1979,Mark Churella,Michigan,167
+1980,Matt Reiss,NC State,167
+1981,Mark Schultz,Oklahoma,167
+1982,Dave Schultz,Oklahoma,167
+1983,Mike Sheets,Oklahoma St.,167
+1984,Mike Sheets,Oklahoma St.,167
+1985,Chris Edmond,Tennessee,167
+1986,Marty Kistler,Iowa,167
+1987,Royce Alger,Iowa,167
+1988,Mike Van Arsdale,Iowa St.,167
+1989,Dave Lee,Wisconsin,167
+1990,Dan St. John,Arizona St.,167
+1991,Mark Reiland,Iowa,167
+1992,Charles Jones,Purdue,167
+1993,Ray Miller,Arizona St.,167
+1994,Mark Branch,Oklahoma St.,167
+1995,Markus Mollica,Arizona St.,167
+1996,Daryl Weber,Iowa,167
+1997,Mark Branch,Oklahoma St.,167
+1998,Joe Williams,Iowa,167
+1928,George Rule,Oklahoma St.,175
+1929,Glenn Stafford,Cornell,175
+1930,Conrad Caldwell,Oklahoma St.,175
+1931,Conrad Caldwell,Oklahoma St.,175
+1933,Robert Hess,Iowa St.,175
+1934,Richard Voliva,Indiana,175
+1935,Ralph Silverstein,Illinois,175
+1937,John Whitaker,Minnesota,175
+1938,John Harkness,Harvard,175
+1939,Chris Traicoff,Indiana,175
+1940,Don Nichols,Michigan,175
+1941,Richard DiBattista,Penn,175
+1942,Richard DiBattista,Penn,175
+1946,George Dorsch,Oklahoma St.,175
+1947,Joe Scarpello,Iowa,175
+1949,James Gregson,Oklahoma St.,175
+1950,Joe Scarpello,Iowa,175
+1951,Grover Rains,Oklahoma St.,177
+1952,Bentley Lyon,California,177
+1953,Ned Blass,Oklahoma St.,177
+1954,Ned Blass,Oklahoma St.,177
+1955,Dan Hodge,Oklahoma,177
+1956,Dan Hodge,Oklahoma,177
+1957,Dan Hodge,Oklahoma,177
+1958,Gary Kurdelmeier,Iowa,177
+1959,Jim Craig,Iowa,177
+1960,Roy Conrad,Northern Ill.,177
+1961,Bob Johnson,Oklahoma St.,177
+1962,Bob Johnson,Oklahoma St.,177
+1963,Dean Lahr,Colorado,177
+1964,Dean Lahr,Colorado,177
+1965,Tom Peckham,Iowa St.,177
+1966,Tom Peckham,Iowa St.,177
+1967,Fred Fozzard,Oklahoma St.,177
+1968,Bob Justice,Colorado,177
+1969,Chuck Jean,Iowa St.,177
+1970,Chuck Jean,Iowa St.,177
+1971,Geoff Baum,Oklahoma St.,177
+1972,Bill Murdock,Washington,177
+1973,Rich Binek,Iowa St.,177
+1974,Floyd Hitchcock,Bloomsburg,177
+1975,Mike Lieberman,Lehigh,177
+1976,Chris Campbell,Iowa,177
+1977,Chris Campbell,Iowa,177
+1978,Mark Lieberman,Lehigh,177
+1979,Mark Lieberman,Lehigh,177
+1980,Ed Banach,Iowa,177
+1981,Ed Banach,Iowa,177
+1982,Mark Schultz,Oklahoma,177
+1983,Mark Schultz,Oklahoma,177
+1984,Jim Scherr,Nebraska,177
+1985,Melvin Douglas,Oklahoma,177
+1986,Melvin Douglas,Oklahoma,177
+1987,Rico Chiapparelli,Iowa,177
+1988,Royce Alger,Iowa,177
+1989,Chris Barnes,Oklahoma St.,177
+1990,Chris Barnes,Oklahoma St.,177
+1991,Marty Morgan,Minnesota,177
+1992,Kevin Randleman,Ohio St.,177
+1993,Kevin Randleman,Ohio St.,177
+1994,Dean Morrison,West Virginia,177
+1995,Les Gutches,Oregon St.,177
+1996,Les Gutches,Oregon St.,177
+1997,Barry Weldon,Iowa St.,177
+1998,Mitch Clark,Ohio St.,177
+1970,Geoff Baum,Oklahoma St.,190
+1971,Ben Peterson,Iowa St.,190
+1972,Ben Peterson,Iowa St.,190
+1973,Greg Strobel,Oregon St.,190
+1974,Greg Strobel,Oregon St.,190
+1975,Al Nacin,Iowa St.,190
+1976,Evan Johnson,Minnesota,190
+1977,Frank Santana,Iowa St.,190
+1978,Ron Jeidy,Wisconsin,190
+1979,Eric Wais,Oklahoma St.,190
+1980,Noel Loban,Clemson,190
+1981,Tom Martucci,TCNJ,190
+1982,Pete Bush,Iowa,190
+1983,Ed Banach,Iowa,190
+1984,Bill Scherr,Nebraska,190
+1985,Dan Chaid,Oklahoma,190
+1986,Duane Goldman,Iowa,190
+1987,Eric Voelker,Iowa St.,190
+1988,Mark Coleman,Ohio St.,190
+1989,Eric Voelker,Iowa St.,190
+1990,Matt Ruppel,Lehigh,190
+1991,Paul Keysaw,CSU Bakersfield,190
+1992,Mark Kerr,Syracuse,190
+1993,Rex Holman,Ohio St.,190
+1994,Joel Sharratt,Iowa,190
+1995,J.J. McGrew,Oklahoma St.,190
+1996,John Kading,Oklahoma,190
+1997,Lee Fullhart,Iowa,190
+1998,Tim Hartung,Minnesota,190
+1970,Geoff Baum,Oklahoma St.,190
+1971,Ben Peterson,Iowa St.,190
+1972,Ben Peterson,Iowa St.,190
+1973,Greg Strobel,Oregon St.,190
+1974,Greg Strobel,Oregon St.,190
+1975,Al Nacin,Iowa St.,190
+1976,Evan Johnson,Minnesota,190
+1977,Frank Santana,Iowa St.,190
+1978,Ron Jeidy,Wisconsin,190
+1979,Eric Wais,Oklahoma St.,190
+1980,Noel Loban,Clemson,190
+1981,Tom Martucci,TCNJ,190
+1982,Pete Bush,Iowa,190
+1983,Ed Banach,Iowa,190
+1984,Bill Scherr,Nebraska,190
+1985,Dan Chaid,Oklahoma,190
+1986,Duane Goldman,Iowa,190
+1987,Eric Voelker,Iowa St.,190
+1988,Mark Coleman,Ohio St.,190
+1989,Eric Voelker,Iowa St.,190
+1990,Matt Ruppel,Lehigh,190
+1991,Paul Keysaw,CSU Bakersfield,190
+1992,Mark Kerr,Syracuse,190
+1993,Rex Holman,Ohio St.,190
+1994,Joel Sharratt,Iowa,190
+1995,J.J. McGrew,Oklahoma St.,190
+1996,John Kading,Oklahoma,190
+1997,Lee Fullhart,Iowa,190
+1998,Tim Hartung,Minnesota,190
+1932,Kermit Blosser,Ohio,191
+1936,Duke Clemons,Central Okla.,191
+1948,Verne Gagne,Minnesota,191
+1952,Harry Lanzi,Toledo,191
+1953,Hudson Samson,Penn St.,191
+1954,Peter Blair,Navy,191
+1955,Peter Blair,Navy,191
+1956,Kenneth Leuer,Iowa,191
+1957,Ron Schirf,Pittsburgh,191
+1958,Kenneth Maidlow,Michigan St.,191
+1959,Arthur Baker,Syracuse,191
+1960,George Goodner,Oklahoma,191
+1961,Len Lordino,Northern Colo.,191
+1962,Wayne Baughman,Oklahoma,191
+1963,Jack Bearden,Michigan,191
+1964,Harry Houska,Ohio,191
+1965,Jack Brisco,Oklahoma St.,191
+1966,Bill Harlow,Oklahoma St.,191
+1967,Tom Schlendorf,Syracuse,191
+1968,Nick Carollo,Adams St.,191
+1969,Tom Kline,Cal Poly,191
+1928,Ralph Lupton,Northwestern,125
+1929,Laurence Mantooth,Oklahoma,125
+1930,Laurence Mantooth,Oklahoma,125
+1999,Stephen Abas,Fresno St.,125
+2000,Jeremy Hunter,Penn St.,125
+2001,Stephen Abas,Fresno St.,125
+2002,Stephen Abas,Fresno St.,125
+2003,Travis Lee,Cornell,125
+2004,Jason Powell,Nebraska,125
+2005,Joe Dubuque,Indiana,125
+2006,Joe Dubuque,Indiana,125
+2007,Paul Donahoe,Nebraska,125
+2008,Angel Escobedo,Indiana,125
+2009,Troy Nickerson,Cornell,125
+2010,Matt McDonough,Iowa,125
+2011,Anthony Robles,Arizona St.,125
+2012,Matt McDonough,Iowa,125
+2013,Jesse Delgado,Illinois,125
+2014,Jesse Delgado,Illinois,125
+2015,Nathan Tomasello,Ohio St.,125
+2016,Nico Megaludis,Penn St.,125
+2017,Darian Cruz,Lehigh,125
+2018,Spencer Lee,Iowa,125
+2019,Spencer Lee,Iowa,125
+2021,Spencer Lee,Iowa,125
+1999,Eric Guerrero,Oklahoma St.,133
+2000,Eric Juergens,Iowa,133
+2001,Eric Juergens,Iowa,133
+2002,Johnny Thompson,Oklahoma St.,133
+2003,Johnny Thompson,Oklahoma St.,133
+2004,Zach Roberson,Iowa St.,133
+2005,Travis Lee,Cornell,133
+2006,Matthew Valenti,Penn,133
+2007,Matthew Valenti,Penn,133
+2008,Coleman Scott,Oklahoma St.,133
+2009,Franklin Gomez,Michigan St.,133
+2010,Jayson Ness,Minnesota,133
+2011,Jordan Oliver,Oklahoma St.,133
+2012,Logan Stieber,Ohio St.,133
+2013,Logan Stieber,Ohio St.,133
+2014,Tony Ramos,Iowa,133
+2015,Cody Brewer,Oklahoma,133
+2016,Nahshon Garrett,Cornell,133
+2017,Cory Clark,Iowa,133
+2018,Seth Gross,South Dakota St.,133
+2019,Nick Suriano,Rutgers,133
+2021,Roman Bravo-Young,Penn St.,133
+1999,Doug Schwab,Iowa,141
+2000,Carl Perry,Illinois,141
+2001,Michael Lightner,Oklahoma,141
+2002,Aaron Holker,Iowa St.,141
+2003,Teyon Ware,Oklahoma,141
+2004,Cliff Moore,Iowa,141
+2005,Teyon Ware,Oklahoma,141
+2006,Nate Gallick,Iowa St.,141
+2007,Derek Moore,UC Davis,141
+2008,J Jaggers,Ohio St.,141
+2009,J Jaggers,Ohio St.,141
+2010,Kyle Dake,Cornell,141
+2011,Kellen Russell,Michigan,141
+2012,Kellen Russell,Michigan,141
+2013,Kendric Maple,Oklahoma,141
+2014,Logan Stieber,Ohio St.,141
+2015,Logan Stieber,Ohio St.,141
+2016,Dean Heil,Oklahoma St.,141
+2017,Dean Heil,Oklahoma St.,141
+2018,Yianni Diakomihalis,Cornell,141
+2019,Yianni Diakomihalis,Cornell,141
+2021,Nick Lee,Penn St.,141
+1999,T.J. Williams,Iowa,149
+2000,Tony Davis,UNI,149
+2001,Adam Tirapelle,Illinois,149
+2002,Jared Lawrence,Minnesota,149
+2003,Eric Larkin,Arizona St.,149
+2004,Jesse Jantzen,Harvard,149
+2005,Zack Esposito,Oklahoma St.,149
+2006,Dustin Schlatter,Minnesota,149
+2007,Gregor Gillespie,Edinboro,149
+2008,Brent Metcalf,Iowa,149
+2009,Darrion Caldwell,NC State,149
+2010,Brent Metcalf,Iowa,149
+2011,Kyle Dake,Cornell,149
+2012,Frank Molinaro,Penn St.,149
+2013,Jordan Oliver,Oklahoma St.,149
+2014,Jason Tsirtsis,Northwestern,149
+2015,Drake Houdashelt,Missouri,149
+2016,Zain Retherford,Penn St.,149
+2017,Zain Retherford,Penn St.,149
+2018,Zain Retherford,Penn St.,149
+2019,Anthony Ashnault,Rutgers,149
+2021,Austin O’Connor,North Carolina,149
+1951,Phil Smith,Oklahoma,157
+1952,Bill Weick,UNI,157
+1953,James Harmon,UNI,157
+1954,Bob Hoke,Michigan St.,157
+1955,Bill Weick,UNI,157
+1956,Larry TenPas,Illinois,157
+1957,Doug Blubaugh,Oklahoma St.,157
+1958,Dick Beattie,Oklahoma St.,157
+1959,Dick Beattie,Oklahoma St.,157
+1960,Art Kraft,Northwestern,157
+1961,Phil Kinyon,Oklahoma St.,157
+1962,Jack Flasche,Northern Colo.,157
+1963,Kirk Pendleton,Lehigh,157
+1964,Gordon Hassman,Iowa St.,157
+1965,Bob Kopnisky,Maryland,157
+1999,Casey Cunningham,Central Mich.,157
+2000,Brett Matter,Penn,157
+2001,T.J. Williams,Iowa,157
+2002,Luke Becker,Minnesota,157
+2003,Ryan Bertin,Michigan,157
+2004,Matt Gentry,Stanford,157
+2005,Ryan Bertin,Michigan,157
+2006,Ben Cherrington,Boise St.,157
+2007,Trent Paulson,Iowa St.,157
+2008,Jordan Leen,Cornell,157
+2009,Jordan Burroughs,Nebraska,157
+2010,J.P. O’Connor,Harvard,157
+2011,Bubba Jenkins,Arizona St.,157
+2012,Kyle Dake,Cornell,157
+2013,Derek St. John,Iowa,157
+2014,Alex Dieringer,Oklahoma St.,157
+2015,Isaiah Martinez,Illinois,157
+2016,Isaiah Martinez,Illinois,157
+2017,Jason Nolf,Penn St.,157
+2018,Jason Nolf,Penn St.,157
+2019,Jason Nolf,Penn St.,157
+2021,David Carr,Iowa St.,157
+1930,Jack Van Bebber,Oklahoma St.,165
+1931,Jack Van Bebber,Oklahoma St.,165
+1933,George Martin,Iowa St.,165
+1934,Marion Foreman,Oklahoma,165
+1935,Howard Johnston,Penn St.,165
+1937,Harvey Base,Oklahoma St.,165
+1938,John Ginay,Illinois,165
+1939,Henry Matthes,Lehigh,165
+1940,Crawford Grenard,Colorado St.,165
+1941,Virgil Smith,Oklahoma St.,165
+1942,Virgil Smith,Oklahoma St.,165
+1946,David Shapiro,Illinois,165
+1947,William Nelson,UNI,165
+1949,William Smith,UNI,165
+1950,William Smith,UNI,165
+1999,Kirk White,Boise St.,165
+2000,Don Pritzlaff,Wisconsin,165
+2001,Don Pritzlaff,Wisconsin,165
+2002,Joe Heskett,Iowa St.,165
+2003,Matt Lackey,Illinois,165
+2004,Troy Letters,Lehigh,165
+2005,Johny Hendricks,Oklahoma St.,165
+2006,Johny Hendricks,Oklahoma St.,165
+2007,Mark Perry,Iowa,165
+2008,Mark Perry,Iowa,165
+2009,Jarrod King,Edinboro,165
+2010,Andrew Howe,Wisconsin,165
+2011,Jordan Burroughs,Nebraska,165
+2012,David Taylor,Penn St.,165
+2013,Kyle Dake,Cornell,165
+2014,David Taylor,Penn St.,165
+2015,Alex Dieringer,Oklahoma St.,165
+2016,Alex Dieringer,Oklahoma St.,165
+2017,Vincenzo Joseph,Penn St.,165
+2018,Vincenzo Joseph,Penn St.,165
+2019,Mekhi Lewis,Virginia Tech,165
+2021,Shane Griffith,Stanford,165
+1936,Harry Broadbent,Oklahoma,174
+1948,Glen Brand,Iowa St.,174
+1999,Glenn Pritzlaff,Penn St.,174
+2000,Byron Tucker,Oklahoma,174
+2001,Josh Koscheck,Edinboro,174
+2002,Greg Jones,West Virginia,174
+2003,Robbie Waller,Oklahoma,174
+2004,Chris Pendleton,Oklahoma St.,174
+2005,Chris Pendleton,Oklahoma St.,174
+2006,Ben Askren,Missouri,174
+2007,Ben Askren,Missouri,174
+2008,Keith Gavin,Pittsburgh,174
+2009,Steve Luke,Michigan,174
+2010,Jay Borschel,Iowa,174
+2011,Jonathan Reader,Iowa St.,174
+2012,Edward Ruth,Penn St.,174
+2013,Chris Perry,Oklahoma St.,174
+2014,Chris Perry,Oklahoma St.,174
+2015,Matthew Brown,Penn St.,174
+2016,Myles Martin,Ohio St.,174
+2017,Mark Hall,Penn St.,174
+2018,Zahid Valencia,Arizona St.,174
+2019,Zahid Valencia,Arizona St.,174
+2021,Carter Starocci,Penn St.,174
+2000,Cael Sanderson,Iowa St.,184
+2001,Cael Sanderson,Iowa St.,184
+2002,Rob Rohn,Lehigh,184
+2003,Jake Rosholt,Oklahoma St.,184
+2004,Greg Jones,West Virginia,184
+2005,Greg Jones,West Virginia,184
+2006,Shane Webster,Oregon,184
+2007,Jake Herbert,Northwestern,184
+2008,Mike Pucillo,Ohio St.,184
+2009,Jake Herbert,Northwestern,184
+2010,Maxwell Askren,Missouri,184
+2011,Quentin Wright,Penn St.,184
+2012,Steve Bosak,Cornell,184
+2013,Edward Ruth,Penn St.,184
+2014,Edward Ruth,Penn St.,184
+2015,Gabriel Dean,Cornell,184
+2016,Gabriel Dean,Cornell,184
+2017,Bo Nickal,Penn St.,184
+2018,Bo Nickal,Penn St.,184
+2019,Drew Foster,UNI,184
+2021,Aaron Brooks,Penn St.,184
+1999,Tim Hartung,Minnesota,197
+2000,Brad Vering,Nebraska,197
+2001,Mark Munoz,Oklahoma St.,197
+2002,Cael Sanderson,Iowa St.,197
+2003,Damion Hahn,Minnesota,197
+2004,Damion Hahn,Minnesota,197
+2005,Jake Rosholt,Oklahoma St.,197
+2006,Jake Rosholt,Oklahoma St.,197
+2007,Joshua Glenn,American,197
+2008,Phil Davis,Penn St.,197
+2009,Jake Varner,Iowa St.,197
+2010,Jake Varner,Iowa St.,197
+2011,Dustin Kilgore,Kent St.,197
+2012,Cam Simaz,Cornell,197
+2013,Quentin Wright,Penn St.,197
+2014,J’den Cox,Missouri,197
+2015,Kyven Gadson,Iowa St.,197
+2016,J’den Cox,Missouri,197
+2017,J’den Cox,Missouri,197
+2018,MichaelMacchiavello, NC State,197
+2019,Bo Nickal,Penn St.,197
+2021,AJ Ferrari,Oklahoma St.,197
+1928,Earl McCready,Oklahoma St,Heavyweight
+1929,Earl McCready,Oklahoma St.,Heavyweight
+1930,Earl McCready,Oklahoma St.,Heavyweight
+1931,Jack Riley,Northwestern,Heavyweight
+1932,Jack Riley,Northwestern,Heavyweight
+1933,Ralph Teague,Southwestern Okla.,Heavyweight
+1934,Ralph Teague,Southwestern Okla.,Heavyweight
+1935,Charles McDaniel,Indiana,Heavyweight
+1936,Howell Scobey,Lehigh,Heavyweight
+1937,Lloyd Ricks,Oklahoma St.,Heavyweight
+1938,Charles McDaniel,Indiana,Heavyweight
+1939,Johnny Harrell,Oklahoma St.,Heavyweight
+1940,George Downes,Ohio St.,Heavyweight
+1941,Leonard Levy,Minnesota,Heavyweight
+1942,Loyd Arms,Oklahoma St.,Heavyweight
+1946,George Bollas,Ohio St.,Heavyweight
+1947,Dick Hutton,Oklahoma St.,Heavyweight
+1948,Dick Hutton,Oklahoma St.,Heavyweight
+1949,Verne Gagne,Minnesota,Heavyweight
+1950,Dick Hutton,Oklahoma St.,Heavyweight
+1951,Bradley Glass,Princeton,Heavyweight
+1952,Gene Nicks,Oklahoma St.,Heavyweight
+1953,Dan McNair,Auburn,Heavyweight
+1954,Gene Nicks,Oklahoma St.,Heavyweight
+1955,William Oberly,Penn St.,Heavyweight
+1956,Gordon Roesler,Oklahoma,Heavyweight
+1957,Robert Norman,Illinois,Heavyweight
+1958,Robert Norman,Illinois,Heavyweight
+1959,Ted Ellis,Oklahoma St.,Heavyweight
+1960,Dale Lewis,Oklahoma,Heavyweight
+1961,Dale Lewis,Oklahoma,Heavyweight
+1962,Sherwyn Thorson,Iowa,Heavyweight
+1963,Jim Nance,Syracuse,Heavyweight
+1964,Joe James,Oklahoma St.,Heavyweight
+1965,Jim Nance,Syracuse,Heavyweight
+1966,Dave Porter,Michigan,Heavyweight
+1967,Curley Culp,Arizona St.,Heavyweight
+1968,Dave Porter,Michigan,Heavyweight
+1969,Jess Lewis,Oregon St.,Heavyweight
+1970,Jess Lewis,Oregon St.,Heavyweight
+1971,Greg Wojciechowski,Toledo,Heavyweight
+1972,Chris Taylor,Iowa St.,Heavyweight
+1973,Chris Taylor,Iowa St.,Heavyweight
+1974,Jim Woods,Western Ill.,Heavyweight
+1975,Larry Bielenberg,Oregon St.,Heavyweight
+1976,Jimmy Jackson,Oklahoma St.,Heavyweight
+1977,Jimmy Jackson,Oklahoma St.,Heavyweight
+1978,Jimmy Jackson,Oklahoma St.,Heavyweight
+1979,Fred Bohna,UCLA,Heavyweight
+1980,Howard Harris,Oregon St.,Heavyweight
+1981,Lou Banach,Iowa,Heavyweight
+1982,Bruce Baumgartner,Indiana St.,Heavyweight
+1983,Lou Banach,Iowa,Heavyweight
+1984,Tab Thacker,NC State,Heavyweight
+1985,Bill Hyman,Temple,Heavyweight
+1986,Kirk Trost,Michigan,Heavyweight
+1987,Carlton Haselrig,Pitt.-Johnstown,Heavyweight
+1988,Carlton Haselrig,Pitt.-Johnstown,Heavyweight
+1989,Carlton Haselrig,Pitt.-Johnstown,Heavyweight
+1990,Kurt Angle,Clarion,Heavyweight
+1991,Jon Llewellyn,Illinois,Heavyweight
+1992,Kurt Angle,Clarion,Heavyweight
+1993,Sylvester Terkay,NC State,Heavyweight
+1994,Kerry McCoy,Penn St.,Heavyweight
+1995,Tolly Thompson,Nebraska,Heavyweight
+1996,Jeff Walter,Wisconsin,Heavyweight
+1997,Kerry McCoy,Penn St.,Heavyweight
+1998,Stephen Neal,CSU Bakersfield,Heavyweight
+1999,Stephen Neal,CSU Bakersfield,Heavyweight
+2000,Brock Lesnar,Minnesota,Heavyweight
+2001,John Lockhart,Illinois,Heavyweight
+2002,Tommy Rowlands,Ohio St.,Heavyweight
+2003,Steve Mocco,Iowa,Heavyweight
+2004,Tommy Rowlands,Ohio St.,Heavyweight
+2005,Steve Mocco,Oklahoma St.,Heavyweight
+2006,Cole Konrad,Minnesota,Heavyweight
+2007,Cole Konrad,Minnesota,Heavyweight
+2008,Dustin Fox,Northwestern,Heavyweight
+2009,Mark Ellis,Missouri,Heavyweight
+2010,David Zabriskie,Iowa St.,Heavyweight
+2011,Zachery Rey,Lehigh,Heavyweight
+2012,Anthony Nelson,Minnesota,Heavyweight
+2013,Anthony Nelson,Minnesota,Heavyweight
+2014,Nick Gwiazdowski,NC State,Heavyweight
+2015,Nick Gwiazdowski,NC State,Heavyweight
+2016,Kyle Snyder,Ohio St.,Heavyweight
+2017,Kyle Snyder,Ohio St.,Heavyweight
+2018,Kyle Snyder,Ohio St.,Heavyweight
+2019,Anthony Cassar,Penn St.,Heavyweight
+2021,Gable Steveson,Minnesota,Heavyweight
