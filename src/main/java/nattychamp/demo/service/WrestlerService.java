@@ -16,6 +16,7 @@ public class WrestlerService {
     private List<Wrestler> wrestlers = new ArrayList<>();
 
     public void loadWrestlers() throws IOException {
+        if (!wrestlers.isEmpty()) return;
         Reader in = new FileReader("AllNCAAChampions.txt");
         Iterable<CSVRecord> records = CSVFormat.DEFAULT.withIgnoreSurroundingSpaces().withHeader().withEscape('\\').parse(in);
         for (CSVRecord record : records) {
@@ -29,8 +30,12 @@ public class WrestlerService {
         }
     }
 
-    public void YearSortComparator() {
+    public void weightSort() {
+        wrestlers.sort(new WeightSortComparator());
+    }
 
+    public void yearSort() {
+        wrestlers.sort(new YearSortComparator());
     }
 
     public List<Wrestler> filterByWeight(String weight) {

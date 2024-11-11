@@ -44,11 +44,13 @@ public class ChampController {
     @GetMapping("/iowa")
     public List<Wrestler> getIowaCollege() throws IOException {
         wrestlerService.loadWrestlers();
+        wrestlerService.yearSort();
         return wrestlerService.filterByCollege("Iowa");
     }
     @GetMapping("/pennst")
     public List<Wrestler> getPennStCollege() throws IOException {
         wrestlerService.loadWrestlers();
+        wrestlerService.weightSort();
         return wrestlerService.filterByCollege("Penn St.");
     }
 }
