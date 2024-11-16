@@ -32,7 +32,7 @@ public class ChampController {
     @GetMapping("/weight-class")
     public List<Wrestler> getWeight() throws IOException {
         wrestlerService.loadWrestlers();
-        return wrestlerService.filterByWeight("Heavyweight");
+        return wrestlerService.filterByWeight("285");
     }
 
     @GetMapping("/year")
