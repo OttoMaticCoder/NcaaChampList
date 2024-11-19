@@ -849,9 +849,9 @@
 1984,Tab Thacker,NC State,285
 1985,Bill Hyman,Temple,285
 1986,Kirk Trost,Michigan,285
-1987,Carlton Haselrig,Pitt.-Johnstown,285
-1988,Carlton Haselrig,Pitt.-Johnstown,285
-1989,Carlton Haselrig,Pitt.-Johnstown,285
+1987,Carlton Haselrig,Pitt.Johnstown,285
+1988,Carlton Haselrig,Pitt.Johnstown,285
+1989,Carlton Haselrig,Pitt.Johnstown,285
 1990,Kurt Angle,Clarion,285
 1991,Jon Llewellyn,Illinois,285
 1992,Kurt Angle,Clarion,285
@@ -883,3 +883,33 @@
 2018,Kyle Snyder,Ohio St.,285
 2019,Anthony Cassar,Penn St.,285
 2021,Gable Steveson,Minnesota,285
+2022,Nick Suriano,Michigan,125
+2022,Roman Bravo-Young,Penn State,133
+2022,Nick Lee,Penn State,141
+2022,Yianni Diakomihalis,Cornell,149
+2022,Ryan Deakin,Northwestern,157
+2022,Keegan O'Toole,Missouri,165
+2022,Carter Starocci,Penn State,174
+2022,Aaron Brooks,Penn State,184
+2022,Max Dean,Penn State,197
+2022,Gable Steveson,Minnesota,285
+2023,Carter Starocci,Penn State,174
+2023,Aaron Brooks,Penn State,184
+2023,Keegan O'Toole,Missouri,165
+2023,Austin O`Connor,North Carolina,157
+2023,Nino Bonaccorsi,Pittsburgh,197
+2023,Mason Parris,Michigan,285
+2023,Pat Glory,Princeton,125
+2023,Vito Arujau,Cornell,133
+2023,Andrew Alirez,Northern Colorado,141
+2023,Yianni Diakomihalis,Cornell,149
+2024,Carter Starocci,Penn State,174
+2024,Aaron Brooks,Penn State,184
+2024,Richard Figueroa,Arizona State,125
+2024,Vito Arujau,Cornell,133
+2024,Jesse Mendez,Ohio State,141
+2024,Caleb Henson,Virginia Tech,149
+2024,Levi Haines,Penn State,157
+2024,David Carr,Iowa State,165
+2024,Parker Keckeisen,Northern Iowa,184
+2024,Greg Kerkvliet,Penn State,285

@@ -1,5 +1,9 @@
 package nattychamp.demo.domain;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+@Entity
 public class Wrestler {
     private String year;
     private String name;
@@ -13,7 +17,7 @@ public class Wrestler {
     public void setYear(String year) {
         this.year = year;
     }
-
+    @Id
     public String getName() {
         return name;
     }
