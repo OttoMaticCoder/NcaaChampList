@@ -5,13 +5,14 @@ import nattychamp.demo.domain.Wrestler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
 @Service
 public class WrestlerService {
     @Autowired
-    WrestlerRepository wrestlerRepo;
+    private WrestlerRepository wrestlerRepo;
 
     public List<Wrestler> findByCollege(String college) {
         return wrestlerRepo.findByCollege(college);
@@ -28,4 +29,5 @@ public class WrestlerService {
     public List<Wrestler> findAll() {
         return wrestlerRepo.findAll();
     }
+
 }

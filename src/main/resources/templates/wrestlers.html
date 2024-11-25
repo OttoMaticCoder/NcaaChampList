@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+    <head>
+        <title>Wrestlers</title>
+    </head>
+    <body>
+        <h1>Wrestlers</h1>
+
+        <div th:each="wrestler : ${wrestlers}">
+            <span th:text="${wrestler.name}"></span><br/>
+            <span th:text="${wrestler.year}"></span><br/>
+            <span th:text="${wrestler.college}"></span><br/>
+            <span th:text="${wrestler.weight}"></span>
+
+        </div>
+    </body>
+</html>
