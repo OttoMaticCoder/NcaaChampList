@@ -9,7 +9,6 @@ import java.util.Scanner;
 
 @Entity
 public class Wrestler {
-    @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long wrestler_Id;
     private String year;
     private String name;

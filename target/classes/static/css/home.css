@@ -1,0 +1,19 @@
+* {
+background-color: dodgerblue;
+text-align: center;
+}
+
+h1 {
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size:  80px;
+}
+
+.w-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input[type='button'] {
+ border: crimson;
+ border: color border 0;
+ border-radius: 40px;
+ padding: 10px 25px;
+}

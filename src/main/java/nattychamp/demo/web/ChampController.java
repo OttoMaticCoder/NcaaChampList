@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.IOException;
+import java.util.LinkedList;
 import java.util.List;
 
 @Controller
@@ -23,7 +24,20 @@ public class ChampController {
 
     @GetMapping("")
     public String nattyChamp() {
-        return "NATTY CHAAAAAAMP!!!!!!";
+        return "nattyhome";
+    }
+
+    @GetMapping("/teams")
+    public String nattyChampTeams() {
+        return "teams";
+    }
+
+    @GetMapping("/weights")
+    public String nattyChampWeights(ModelMap model) {
+        List<Wrestler> wrestlers = wrestlerService.findAll();
+        model.put("wrestlers", wrestlers);
+
+        return "weights";
     }
 
     @GetMapping("/wrestlers")
@@ -37,7 +51,7 @@ public class ChampController {
     }
 
     @GetMapping("/pennst")
-    public String getChampsByPennst(ModelMap model) {
+    public String getChampsByPennSt(ModelMap model) {
         List<Wrestler> wrestlers = wrestlerService.findByCollege("Penn St.");
         model.put("wrestlers", wrestlers);
         if (wrestlers.size() ==1) {
@@ -46,9 +60,49 @@ public class ChampController {
         return "wrestlers";
     }
 
+    @GetMapping("/iowa")
+    public String getChampsByIowaSt(ModelMap model) {
+        List<Wrestler> wrestlers = wrestlerService.findByCollege("Iowa");
+        model.put("wrestlers", wrestlers);
+        if (wrestlers.size() ==1) {
+            model.put("wrestler", wrestlers.get(0));
+        }
+        return "wrestlers";
+    }
+
+    @GetMapping("/ohiost")
+    public String getChampsByOhioSt(ModelMap model) {
+        List<Wrestler> wrestlers = wrestlerService.findByCollege("Ohio St.");
+        model.put("wrestlers", wrestlers);
+        if (wrestlers.size() ==1) {
+            model.put("wrestler", wrestlers.get(0));
+        }
+        return "wrestlers";
+    }
+
+    @GetMapping("/cornell")
+    public String getChampsByCornell(ModelMap model) {
+        List<Wrestler> wrestlers = wrestlerService.findByCollege("Cornell");
+        model.put("wrestlers", wrestlers);
+        if (wrestlers.size() ==1) {
+            model.put("wrestler", wrestlers.get(0));
+        }
+        return "wrestlers";
+    }
+
     @GetMapping("/iowast")
-    public String getChampsByIowast(ModelMap model) {
+    public String getChampsByIowaState(ModelMap model) {
         List<Wrestler> wrestlers = wrestlerService.findByCollege("Iowa St.");
+        model.put("wrestlers", wrestlers);
+        if (wrestlers.size() ==1) {
+            model.put("wrestler", wrestlers.get(0));
+        }
+        return "wrestlers";
+    }
+
+    @GetMapping("/illinois")
+    public String getChampsByIllinois(ModelMap model) {
+        List<Wrestler> wrestlers = wrestlerService.findByCollege("Illinois");
         model.put("wrestlers", wrestlers);
         if (wrestlers.size() ==1) {
             model.put("wrestler", wrestlers.get(0));
