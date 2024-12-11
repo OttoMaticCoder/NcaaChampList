@@ -32,14 +32,6 @@ public class ChampController {
         return "teams";
     }
 
-    @GetMapping("/weights")
-    public String nattyChampWeights(ModelMap model) {
-        List<Wrestler> wrestlers = wrestlerService.findAll();
-        model.put("wrestlers", wrestlers);
-
-        return "weights";
-    }
-
     @GetMapping("/wrestlers")
     public String getAllChamps(ModelMap model) {
         List<Wrestler> wrestlers = wrestlerService.findAll();

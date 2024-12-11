@@ -5,23 +5,21 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
-import java.util.Scanner;
-
 @Entity
 public class Wrestler {
-    private Long wrestler_Id;
+    private Long wrestlerId;
     private String year;
     private String name;
     private String college;
     private String weight;
 
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
-    public Long getWrestler_Id() {
-        return wrestler_Id;
+    public Long getWrestlerId() {
+        return wrestlerId;
     }
 
-    public void setWrestler_Id(Long wrestler_Id) {
-        this.wrestler_Id = wrestler_Id;
+    public void setWrestlerId(Long wrestlerId) {
+        this.wrestlerId = wrestlerId;
     }
 
     public String getYear() {

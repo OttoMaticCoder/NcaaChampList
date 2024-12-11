@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+    <head>
+        <title>Wrestlers</title>
+        <link rel="stylesheet" href="/css/home.css">
+    </head>
+    <body>
+        <h1>***TEAM NATTY TITLES***</h1>
+
+        <h2> INDIVIDUAL CHAMPS </h2>
+<!--        <span th:text="${college.collegeName}"></span>-->
+
+        <div class="w-text" th:each="college : ${colleges}">
+
+            <div>
+                <span th:text="${college.collegeName}"></span>
+                <span th:text="${college.champCount}"></span>
+<!--                <span th:text="${college.college}"></span>-->
+<!--                <span th:text="${college.weight}"></span>-->
+            </div>
+
+        </div>
+    </body>
+</html>
