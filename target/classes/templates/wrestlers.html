@@ -8,14 +8,14 @@
         <h1>***NATTY CHAMPS***</h1>
 
         <div class="w-text" th:each="wrestler : ${wrestlers}">
-
-            <div>
-                <span th:text="${wrestler.name}"></span>
-                <span th:text="${wrestler.year}"></span>
-                <span th:text="${wrestler.college}"></span>
-                <span th:text="${wrestler.weight}"></span>
+            <div class="flexrow">
+                <div class="homebox">
+                    <span th:text="${wrestler.name}"></span>
+                    <span th:text="${wrestler.year}"></span>
+                    <span th:text="${wrestler.college}"></span>
+                    <span th:text="${wrestler.weight}"></span>
+                </div>
             </div>
-
         </div>
     </body>
 </html>

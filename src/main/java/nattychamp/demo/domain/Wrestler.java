@@ -1,9 +1,6 @@
 package nattychamp.demo.domain;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 
 @Entity
 public class Wrestler {
@@ -12,6 +9,16 @@ public class Wrestler {
     private String name;
     private String college;
     private String weight;
+    private Natty natty;
+
+    @OneToOne(mappedBy = "wrestler")
+    public Natty getNatty() {
+        return natty;
+    }
+
+    public void setNatty(Natty natty) {
+        this.natty = natty;
+    }
 
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     public Long getWrestlerId() {

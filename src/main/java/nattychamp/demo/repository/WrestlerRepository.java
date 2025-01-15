@@ -11,6 +11,7 @@ public interface WrestlerRepository extends JpaRepository<Wrestler, Long> {
     List<Wrestler> findByCollege (String college);
     List<Wrestler> findByWeight (String weight);
     List<Wrestler> findByCollegeAndWeight (String college, String weight);
+    List<Wrestler> findByWrestlerId (Long wrestlerId);
 
 
 }

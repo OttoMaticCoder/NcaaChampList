@@ -28,4 +28,8 @@ public class WrestlerService {
         return wrestlerRepo.findAll();
     }
 
+    public List<Wrestler> findByWrestlerId(Long wrestlerId) {
+        return wrestlerRepo.findByWrestlerId(wrestlerId);
+    }
+
 }

@@ -1,12 +1,14 @@
 package nattychamp.demo.repository;
 
 import nattychamp.demo.domain.Weight;
-import nattychamp.demo.domain.Wrestler;
+import org.springframework.data.jpa.repository.JpaRepository;
 
-import java.util.List;
+import java.util.Optional;
 
-public interface WeightRepository {
-    List<Weight> findByWeightClass (String weight);
-    List<Weight> findByWeightId (String id);
+public interface WeightRepository extends JpaRepository<Weight, Long> {
+//    List<Weight> findByWeightClass (Double weight);
+    Optional<Weight> findByWeightId (Long id);
+
+
 
 }

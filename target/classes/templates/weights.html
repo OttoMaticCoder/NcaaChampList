@@ -2,15 +2,15 @@
 <html xmlns:th="http://thymeleaf.org">
 <head>
     <title>Wrestlers</title>
-    <link rel="stylesheet" href="/css/home.css">
+    <link rel="stylesheet" href="/css/weights.css">
 </head>
 <body>
 <h1>***NATTY CHAMPS***</h1>
 
-<div class="w-text" th:each="wrestler : ${wrestlers}">
+<div class="w-text" th:each="weight : ${weight}">
 
     <div>
-        <span th:text="${wrestler.weight}"></span>
+        <a href="weight"><span th:text="${weight.weightClass}"></span></a>
     </div>
 
 </div>

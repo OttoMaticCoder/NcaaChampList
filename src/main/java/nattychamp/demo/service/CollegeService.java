@@ -7,6 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
+
 @Service
 public class CollegeService {
 
@@ -23,6 +25,11 @@ public class CollegeService {
 
     public List<College> findAll() {
         return collegeRepo.findAll();
+    }
+
+    public College findOne(Long collegeId) {
+        Optional<College> userOpt = collegeRepo.findById(collegeId);
+        return userOpt.orElse(new College());
     }
 
     }

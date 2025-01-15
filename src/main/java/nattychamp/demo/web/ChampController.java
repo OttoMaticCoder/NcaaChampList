@@ -1,14 +1,17 @@
 package nattychamp.demo.web;
 
 import nattychamp.demo.domain.Wrestler;
+import nattychamp.demo.service.CollegeService;
 import nattychamp.demo.service.WrestlerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -16,10 +19,15 @@ import java.util.List;
 public class ChampController {
     @Autowired
     private WrestlerService wrestlerService;
+    @Autowired
+    private CollegeService collegeService;
+
+
 
     @Autowired
-    public ChampController (WrestlerService wrestlerService) {
+    public ChampController (WrestlerService wrestlerService, CollegeService collegeService) {
         this.wrestlerService = wrestlerService;
+        this.collegeService = collegeService;
     }
 
     @GetMapping("")
@@ -42,13 +50,13 @@ public class ChampController {
             return "wrestlers";
     }
 
-    @GetMapping("/pennst")
-    public String getChampsByPennSt(ModelMap model) {
-        List<Wrestler> wrestlers = wrestlerService.findByCollege("Penn St.");
-        model.put("wrestlers", wrestlers);
-        if (wrestlers.size() ==1) {
-            model.put("wrestler", wrestlers.get(0));
-        }
+    @GetMapping("/{college}")
+    public String getChampsByPennSt(ModelMap model, @PathVariable String college) {
+        List<Wrestler> wrestlers = wrestlerService.findByCollege("{wrestler.college}");
+        model.put("wrestlers", Arrays.asList(college));
+        model.put("wrestler", wrestlers);
+
+
         return "wrestlers";
     }
 
